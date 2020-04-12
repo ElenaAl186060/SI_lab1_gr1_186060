@@ -31,4 +31,4 @@ class Student {
 		if(labpoints.size() >= 8)
 			return true;
 	}
-}
+};
