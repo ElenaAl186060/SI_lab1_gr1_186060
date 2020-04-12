@@ -2,9 +2,8 @@ class Student {
 	String index;
 	String firstName;
 	String lastName;
-
-	//TODO constructor
-
+	ArrayList<Integer> list=new ArrayList<Integer>();
+	
 	//TODO seters & getters
 
 	public double getAverage() {
